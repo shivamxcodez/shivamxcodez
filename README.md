@@ -1,6 +1,6 @@
 <header>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=0D0D0D&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg#gh-light-mode-only)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=24292F&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg#gh-light-mode-only)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg#gh-dark-mode-only)  
 
 </header>
